@@ -3,10 +3,10 @@
 
 https://homecafenet.000webhostapp.com/
 
-![cafe1](https://github.com/Favero84/Site-Home-Cafe/blob/master/cafe01.png)
+![cafe1](https://github.com/Favero84/site-cafe/blob/master/imagens_projeto/cafe01.png)
 
-![cafe2](https://github.com/Favero84/Site-Home-Cafe/blob/master/cafe02.png)
+![cafe2](https://github.com/Favero84/site-cafe/blob/master/imagens_projeto/cafe02.png)
 
-![cafe3](https://github.com/Favero84/Site-Home-Cafe/blob/master/cafe03.png)
+![cafe3](https://github.com/Favero84/site-cafe/blob/master/imagens_projeto/cafe03.png)
 
-![cafe4](https://github.com/Favero84/Site-Home-Cafe/blob/master/cafe04.png)
+![cafe4](https://github.com/Favero84/site-cafe/blob/master/imagens_projeto/cafe04.png)
