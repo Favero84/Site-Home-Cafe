@@ -3,3 +3,4 @@ Site desenvolvido com o objetivo de adquirir conhecimentos em PHP, HTML e CSS co
 
 ![cafe1](https://github.com/Favero84/Site-Home-Cafe/blob/master/cafe01.png)
 
+![cafe2](https://github.com/Favero84/Site-Home-Cafe/blob/master/cafe02.png)
