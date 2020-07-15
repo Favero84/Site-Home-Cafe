@@ -10,5 +10,3 @@ https://homecafenet.000webhostapp.com/
 ![cafe3](https://github.com/Favero84/Site-Home-Cafe/blob/master/cafe03.png)
 
 ![cafe4](https://github.com/Favero84/Site-Home-Cafe/blob/master/cafe04.png)
-
-https://homecafenet.000webhostapp.com/
